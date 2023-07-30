@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9498bccc-71fc-4f16-a30b-8528fb71168e" name="kur" url="http://kurusa.uno">
+        <fileTransfer rootFolder="/web/resender.kurusa.uno/public_html" host="kurusa.uno" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
